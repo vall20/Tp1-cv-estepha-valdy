@@ -1,0 +1,132 @@
+             h1 {
+                 color: rgb(93, 55, 55)/*colore le titre*/
+                 ;
+                 text-align: left/*positionne le texte a gauche*/
+                 ;
+                 font-size: 20px;
+             }
+             
+             p {
+                 font-family: Georgia, 'Times New Roman', Times, serif/*permet de selectionné la police d'écriture*/
+                 ;
+                 font-size: 15px/*permet de donner la taille du texte*/
+                 ;
+             }
+             
+             body {
+                 background-color: rgb(140, 161, 166)/*colore l'arrière plan de la  page web*/
+                 ;
+             }
+             
+             img {
+                 float: left/*position*/
+                 ;
+                 width: 50%/*taille*/
+                 ;
+             }
+             
+             .gauche {
+                 border: 0px solid/*permet d'ancadre un texte*/
+                 ;
+                 color: black;
+                 pandding: 0px;
+                 float: left;
+                 width: 50%/* taille du cadre en pourcentage*/
+                 ;
+                 color: rgb(71, 66, 59);
+                 border-radius: 100px 100px 100px 100px/* permet d'arrondir les contours de mon cadre*/
+                 ;
+                 background-color: rgb(71, 112, 99)/* color l'arrière plan du cadre*/
+                 ;
+                 box-shadow: 6px 6px 0px black/*ajoute un effet d'ombre*/
+                 ;
+                 position: relative;
+                 top: -7cm;
+                 /*hauteur*/
+                 left: 0px;
+             }
+             
+             .droite1 {
+                 border: 0px solid;
+                 color: black;
+                 pandding: 0px;
+                 float: right;
+                 width: 48%;
+                 border-radius: 100px 100px 100px 100px;
+                 position: relative;
+                 top: 30px;
+                 /*hauteur*/
+                 left: 0px;
+                 /*position*/
+             }
+             
+             .droite2 {
+                 border: 0px solid;
+                 color: black;
+                 pandding: 0px;
+                 float: inline-start;
+                 width: 20%;
+                 border-radius: 20px 20px 20px 20px;
+                 position: absolute;
+                 top: 7cm;
+                 left: 11cm;
+             }
+             
+             .droite3 {
+                 border: 0px solid;
+                 color: black;
+                 pandding: 0px;
+                 float: right;
+                 width: 30%;
+                 border-radius: 20px 20px 20px 20px;
+                 position: relative;
+                 top: 8cm;
+                 left: 8cm;
+             }
+             
+             .gauche1 {
+                 border: 0px solid;
+                 color: black;
+                 pandding: 5px;
+                 float: left;
+                 width: 50%;
+                 color: blanchedalmond;
+                 border-radius: 110px 110px 110px 110px;
+             }
+             
+             .gauche0 {
+                 border: 10px solid;
+                 color: black;
+                 pandding: 6px;
+                 float: left;
+                 width: 55%;
+                 color: blanchedalmond;
+                 border-radius: 20px 20px 20px 20px;
+                 background-color: rgb(65, 71, 79)
+             }
+             
+             .gauche2 {
+                 border: 1px solid;
+                 color: black;
+                 pandding: 5px;
+                 float: left;
+                 width: 30%;
+                 color: blanchedalmond;
+                 border-radius: 110px 110px 110px 110px;
+             }
+             
+             .gauche3 {
+                 border: 0.5px solid;
+                 color: black;
+                 pandding: 5px;
+                 float: left;
+                 width: 50%;
+                 color: rgb(65, 71, 79);
+                 position: relative;
+                 top: -7cm;
+                 left: 0px;
+             }
+             
+             .a {
+                 color: beige;
+             }
